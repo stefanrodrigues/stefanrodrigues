@@ -8,7 +8,7 @@
 
 🌱 Tenho interesse linguagens para automação de rede.\
 💻 Estou constantemente me atualizando e estudando novas ferramentas.\
-📷 Gosto de fotografia e filosofia.\
+📷 Gosto de fotografia e filosofia.
 
 ###
 
