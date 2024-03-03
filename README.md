@@ -1,4 +1,5 @@
-### Hi there 👋
+# Olá, me chamo Stefan Rodrigues!
+## Bem vindo ao meu perfil do GitHub :sunglasses:
 
 <!--
 **stefanrodrigues/stefanrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
