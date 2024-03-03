@@ -1,6 +1,6 @@
 Bem vindo ao meu perfil do GitHub :sunglasses:
 
-Me chamo **Stefan Rodrigues**! <div>
+<div>Me chamo **Stefan Rodrigues**! 
 <a href="https://www.linkedin.com/in/stefan-rodrigues-226584b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
 Meus interesses:
