@@ -3,8 +3,7 @@ Olá, me chamo **Stefan Rodrigues**!
 Bem vindo ao meu perfil do GitHub :sunglasses:
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original-wordmark.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original-wordmark.svg" width="60" height="60" />
                     
 <!--
 **stefanrodrigues/stefanrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
