@@ -1,11 +1,14 @@
-Olá, me chamo **Stefan Rodrigues**!
+Olá, me chamo **Stefan Rodrigues**! <div>
+<a href="https://www.linkedin.com/in/stefan-rodrigues-226584b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 Bem vindo ao meu perfil do GitHub :sunglasses:
 
 Meus interesses:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original-wordmark.svg" width="60" height="60" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="60" height="60" />
-          
+
+
                     
 <!--
 **stefanrodrigues/stefanrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
